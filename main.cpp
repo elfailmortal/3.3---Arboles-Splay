@@ -1,3 +1,6 @@
+//Rafael Cárdenas Meneses - A00838348
+//3.3 - Arboles Splay
+//Programación de estructuras de datos y algoritmos fundamentales (Gpo 604)
 #include <iostream>
 #include <sstream>
 #include <string>
